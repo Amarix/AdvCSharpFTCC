@@ -1,0 +1,10 @@
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\bin\Debug\9-5_TwoFormApplication_AllieBeckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\bin\Debug\9-5_TwoFormApplication_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\bin\Debug\9-5_TwoFormApplication_AllieBeckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\obj\Debug\9-5_TwoFormApplication_AllieBeckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\obj\Debug\_9_5_TwoFormApplication_AllieBeckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\obj\Debug\_9_5_TwoFormApplication_AllieBeckman.MessageForm.resources
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\obj\Debug\_9_5_TwoFormApplication_AllieBeckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\obj\Debug\9-5_TwoFormApplication_AllieBeckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\obj\Debug\9-5_TwoFormApplication_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\9-5_TwoFormApplication_AllieBeckman\9-5_TwoFormApplication_AllieBeckman\obj\Debug\9-5_TwoFormApplication_AllieBeckman.pdb

@@ -1,0 +1,9 @@
+c:\users\allie\documents\visual studio 2015\Projects\7-3_SeatingChart_AllieBeckman\7-3_SeatingChart_AllieBeckman\bin\Debug\7-3_SeatingChart_AllieBeckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\7-3_SeatingChart_AllieBeckman\7-3_SeatingChart_AllieBeckman\bin\Debug\7-3_SeatingChart_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\7-3_SeatingChart_AllieBeckman\7-3_SeatingChart_AllieBeckman\bin\Debug\7-3_SeatingChart_AllieBeckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\7-3_SeatingChart_AllieBeckman\7-3_SeatingChart_AllieBeckman\obj\Debug\7-3_SeatingChart_AllieBeckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\7-3_SeatingChart_AllieBeckman\7-3_SeatingChart_AllieBeckman\obj\Debug\_7_3_SeatingChart_AllieBeckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\7-3_SeatingChart_AllieBeckman\7-3_SeatingChart_AllieBeckman\obj\Debug\_7_3_SeatingChart_AllieBeckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\7-3_SeatingChart_AllieBeckman\7-3_SeatingChart_AllieBeckman\obj\Debug\7-3_SeatingChart_AllieBeckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\7-3_SeatingChart_AllieBeckman\7-3_SeatingChart_AllieBeckman\obj\Debug\7-3_SeatingChart_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\7-3_SeatingChart_AllieBeckman\7-3_SeatingChart_AllieBeckman\obj\Debug\7-3_SeatingChart_AllieBeckman.pdb

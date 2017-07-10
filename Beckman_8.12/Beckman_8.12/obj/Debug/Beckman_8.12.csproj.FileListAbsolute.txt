@@ -1,0 +1,9 @@
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_8.12\Beckman_8.12\bin\Debug\Beckman_8.12.exe.config
+C:\Users\Allie\Documents\Visual Studio 2015\Projects\Beckman_8.12\Beckman_8.12\bin\Debug\Beckman_8.12.exe
+C:\Users\Allie\Documents\Visual Studio 2015\Projects\Beckman_8.12\Beckman_8.12\bin\Debug\Beckman_8.12.pdb
+C:\Users\Allie\Documents\Visual Studio 2015\Projects\Beckman_8.12\Beckman_8.12\obj\Debug\Beckman_8.12.csprojResolveAssemblyReference.cache
+C:\Users\Allie\Documents\Visual Studio 2015\Projects\Beckman_8.12\Beckman_8.12\obj\Debug\Beckman_8._12.Form1.resources
+C:\Users\Allie\Documents\Visual Studio 2015\Projects\Beckman_8.12\Beckman_8.12\obj\Debug\Beckman_8._12.Properties.Resources.resources
+C:\Users\Allie\Documents\Visual Studio 2015\Projects\Beckman_8.12\Beckman_8.12\obj\Debug\Beckman_8.12.csproj.GenerateResource.Cache
+C:\Users\Allie\Documents\Visual Studio 2015\Projects\Beckman_8.12\Beckman_8.12\obj\Debug\Beckman_8.12.exe
+C:\Users\Allie\Documents\Visual Studio 2015\Projects\Beckman_8.12\Beckman_8.12\obj\Debug\Beckman_8.12.pdb

@@ -1,0 +1,12 @@
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\bin\Debug\M5HW1_AllieBeckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\bin\Debug\Personnel.mdf
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\bin\Debug\Personnel_log.ldf
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\bin\Debug\M5HW1_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\bin\Debug\M5HW1_AllieBeckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\obj\Debug\M5HW1_AllieBeckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\obj\Debug\M5HW1_AllieBeckman.Details.resources
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\obj\Debug\M5HW1_AllieBeckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\obj\Debug\M5HW1_AllieBeckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\obj\Debug\M5HW1_AllieBeckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\obj\Debug\M5HW1_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\M5HW1_AllieBeckman\M5HW1_AllieBeckman\obj\Debug\M5HW1_AllieBeckman.pdb

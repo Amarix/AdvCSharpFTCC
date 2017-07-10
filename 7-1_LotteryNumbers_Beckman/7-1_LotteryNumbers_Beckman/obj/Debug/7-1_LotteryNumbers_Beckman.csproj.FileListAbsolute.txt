@@ -1,0 +1,9 @@
+c:\users\allie\documents\visual studio 2015\Projects\7-1_LotteryNumbers_Beckman\7-1_LotteryNumbers_Beckman\bin\Debug\7-1_LotteryNumbers_Beckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\7-1_LotteryNumbers_Beckman\7-1_LotteryNumbers_Beckman\obj\Debug\7-1_LotteryNumbers_Beckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\7-1_LotteryNumbers_Beckman\7-1_LotteryNumbers_Beckman\obj\Debug\_7_1_LotteryNumbers_Beckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\7-1_LotteryNumbers_Beckman\7-1_LotteryNumbers_Beckman\obj\Debug\_7_1_LotteryNumbers_Beckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\7-1_LotteryNumbers_Beckman\7-1_LotteryNumbers_Beckman\obj\Debug\7-1_LotteryNumbers_Beckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\7-1_LotteryNumbers_Beckman\7-1_LotteryNumbers_Beckman\bin\Debug\7-1_LotteryNumbers_Beckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\7-1_LotteryNumbers_Beckman\7-1_LotteryNumbers_Beckman\bin\Debug\7-1_LotteryNumbers_Beckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\7-1_LotteryNumbers_Beckman\7-1_LotteryNumbers_Beckman\obj\Debug\7-1_LotteryNumbers_Beckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\7-1_LotteryNumbers_Beckman\7-1_LotteryNumbers_Beckman\obj\Debug\7-1_LotteryNumbers_Beckman.pdb

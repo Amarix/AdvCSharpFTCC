@@ -1,0 +1,9 @@
+c:\users\allie\documents\visual studio 2015\Projects\8-5_AllieBeckman\8-5_AllieBeckman\bin\Debug\8-5_AllieBeckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\8-5_AllieBeckman\8-5_AllieBeckman\obj\Debug\8-5_AllieBeckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\8-5_AllieBeckman\8-5_AllieBeckman\obj\Debug\_8_5_AllieBeckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\8-5_AllieBeckman\8-5_AllieBeckman\obj\Debug\_8_5_AllieBeckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\8-5_AllieBeckman\8-5_AllieBeckman\obj\Debug\8-5_AllieBeckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\8-5_AllieBeckman\8-5_AllieBeckman\bin\Debug\8-5_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\8-5_AllieBeckman\8-5_AllieBeckman\bin\Debug\8-5_AllieBeckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\8-5_AllieBeckman\8-5_AllieBeckman\obj\Debug\8-5_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\8-5_AllieBeckman\8-5_AllieBeckman\obj\Debug\8-5_AllieBeckman.pdb

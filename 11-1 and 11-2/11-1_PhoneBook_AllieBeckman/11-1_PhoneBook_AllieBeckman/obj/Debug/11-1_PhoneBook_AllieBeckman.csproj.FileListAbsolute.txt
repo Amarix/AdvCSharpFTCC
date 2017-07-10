@@ -1,0 +1,11 @@
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\bin\Debug\11-1_PhoneBook_AllieBeckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\bin\Debug\PhoneList.mdf
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\bin\Debug\PhoneList_log.ldf
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\bin\Debug\11-1_PhoneBook_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\bin\Debug\11-1_PhoneBook_AllieBeckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\obj\Debug\11-1_PhoneBook_AllieBeckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\obj\Debug\_11_1_PhoneBook_AllieBeckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\obj\Debug\_11_1_PhoneBook_AllieBeckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\obj\Debug\11-1_PhoneBook_AllieBeckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\obj\Debug\11-1_PhoneBook_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\11-1_PhoneBook_AllieBeckman\11-1_PhoneBook_AllieBeckman\obj\Debug\11-1_PhoneBook_AllieBeckman.pdb

@@ -1,0 +1,9 @@
+c:\users\allie\documents\visual studio 2015\Projects\7-2_TestAverage_Beckman\7-2_TestAverage_Beckman\bin\Debug\7-2_TestAverage_Beckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\7-2_TestAverage_Beckman\7-2_TestAverage_Beckman\obj\Debug\7-2_TestAverage_Beckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\7-2_TestAverage_Beckman\7-2_TestAverage_Beckman\obj\Debug\_7_2_TestAverage_Beckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\7-2_TestAverage_Beckman\7-2_TestAverage_Beckman\obj\Debug\_7_2_TestAverage_Beckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\7-2_TestAverage_Beckman\7-2_TestAverage_Beckman\obj\Debug\7-2_TestAverage_Beckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\7-2_TestAverage_Beckman\7-2_TestAverage_Beckman\bin\Debug\7-2_TestAverage_Beckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\7-2_TestAverage_Beckman\7-2_TestAverage_Beckman\bin\Debug\7-2_TestAverage_Beckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\7-2_TestAverage_Beckman\7-2_TestAverage_Beckman\obj\Debug\7-2_TestAverage_Beckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\7-2_TestAverage_Beckman\7-2_TestAverage_Beckman\obj\Debug\7-2_TestAverage_Beckman.pdb

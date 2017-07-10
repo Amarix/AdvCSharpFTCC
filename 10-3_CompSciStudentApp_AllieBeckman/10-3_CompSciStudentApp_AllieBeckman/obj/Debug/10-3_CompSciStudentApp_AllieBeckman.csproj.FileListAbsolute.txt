@@ -1,0 +1,9 @@
+c:\users\allie\documents\visual studio 2015\Projects\10-3_CompSciStudentApp_AllieBeckman\10-3_CompSciStudentApp_AllieBeckman\bin\Debug\10-3_CompSciStudentApp_AllieBeckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\10-3_CompSciStudentApp_AllieBeckman\10-3_CompSciStudentApp_AllieBeckman\bin\Debug\10-3_CompSciStudentApp_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\10-3_CompSciStudentApp_AllieBeckman\10-3_CompSciStudentApp_AllieBeckman\bin\Debug\10-3_CompSciStudentApp_AllieBeckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\10-3_CompSciStudentApp_AllieBeckman\10-3_CompSciStudentApp_AllieBeckman\obj\Debug\10-3_CompSciStudentApp_AllieBeckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\10-3_CompSciStudentApp_AllieBeckman\10-3_CompSciStudentApp_AllieBeckman\obj\Debug\_10_3_CompSciStudentApp_AllieBeckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\10-3_CompSciStudentApp_AllieBeckman\10-3_CompSciStudentApp_AllieBeckman\obj\Debug\_10_3_CompSciStudentApp_AllieBeckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\10-3_CompSciStudentApp_AllieBeckman\10-3_CompSciStudentApp_AllieBeckman\obj\Debug\10-3_CompSciStudentApp_AllieBeckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\10-3_CompSciStudentApp_AllieBeckman\10-3_CompSciStudentApp_AllieBeckman\obj\Debug\10-3_CompSciStudentApp_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\10-3_CompSciStudentApp_AllieBeckman\10-3_CompSciStudentApp_AllieBeckman\obj\Debug\10-3_CompSciStudentApp_AllieBeckman.pdb

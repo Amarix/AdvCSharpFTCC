@@ -1,0 +1,9 @@
+c:\users\allie\documents\visual studio 2015\Projects\8-6_ColorSpectrum_AllieBeckman\8-6_ColorSpectrum_AllieBeckman\bin\Debug\8-6_ColorSpectrum_AllieBeckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\8-6_ColorSpectrum_AllieBeckman\8-6_ColorSpectrum_AllieBeckman\bin\Debug\8-6_ColorSpectrum_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\8-6_ColorSpectrum_AllieBeckman\8-6_ColorSpectrum_AllieBeckman\bin\Debug\8-6_ColorSpectrum_AllieBeckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\8-6_ColorSpectrum_AllieBeckman\8-6_ColorSpectrum_AllieBeckman\obj\Debug\8-6_ColorSpectrum_AllieBeckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\8-6_ColorSpectrum_AllieBeckman\8-6_ColorSpectrum_AllieBeckman\obj\Debug\_8_6_ColorSpectrum_AllieBeckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\8-6_ColorSpectrum_AllieBeckman\8-6_ColorSpectrum_AllieBeckman\obj\Debug\_8_6_ColorSpectrum_AllieBeckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\8-6_ColorSpectrum_AllieBeckman\8-6_ColorSpectrum_AllieBeckman\obj\Debug\8-6_ColorSpectrum_AllieBeckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\8-6_ColorSpectrum_AllieBeckman\8-6_ColorSpectrum_AllieBeckman\obj\Debug\8-6_ColorSpectrum_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\8-6_ColorSpectrum_AllieBeckman\8-6_ColorSpectrum_AllieBeckman\obj\Debug\8-6_ColorSpectrum_AllieBeckman.pdb

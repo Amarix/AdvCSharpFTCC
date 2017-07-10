@@ -1,0 +1,9 @@
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_Homework7-2\Beckman_Homework7-2\bin\Debug\Beckman_Homework7-2.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_Homework7-2\Beckman_Homework7-2\bin\Debug\Beckman_Homework7-2.exe
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_Homework7-2\Beckman_Homework7-2\bin\Debug\Beckman_Homework7-2.pdb
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_Homework7-2\Beckman_Homework7-2\obj\Debug\Beckman_Homework7-2.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_Homework7-2\Beckman_Homework7-2\obj\Debug\Beckman_Homework7_2.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_Homework7-2\Beckman_Homework7-2\obj\Debug\Beckman_Homework7_2.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_Homework7-2\Beckman_Homework7-2\obj\Debug\Beckman_Homework7-2.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_Homework7-2\Beckman_Homework7-2\obj\Debug\Beckman_Homework7-2.exe
+c:\users\allie\documents\visual studio 2015\Projects\Beckman_Homework7-2\Beckman_Homework7-2\obj\Debug\Beckman_Homework7-2.pdb

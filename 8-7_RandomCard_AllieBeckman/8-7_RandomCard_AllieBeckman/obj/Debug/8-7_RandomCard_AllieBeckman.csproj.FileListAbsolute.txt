@@ -1,0 +1,9 @@
+c:\users\allie\documents\visual studio 2015\Projects\8-7_RandomCard_AllieBeckman\8-7_RandomCard_AllieBeckman\bin\Debug\8-7_RandomCard_AllieBeckman.exe.config
+c:\users\allie\documents\visual studio 2015\Projects\8-7_RandomCard_AllieBeckman\8-7_RandomCard_AllieBeckman\bin\Debug\8-7_RandomCard_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\8-7_RandomCard_AllieBeckman\8-7_RandomCard_AllieBeckman\bin\Debug\8-7_RandomCard_AllieBeckman.pdb
+c:\users\allie\documents\visual studio 2015\Projects\8-7_RandomCard_AllieBeckman\8-7_RandomCard_AllieBeckman\obj\Debug\8-7_RandomCard_AllieBeckman.csprojResolveAssemblyReference.cache
+c:\users\allie\documents\visual studio 2015\Projects\8-7_RandomCard_AllieBeckman\8-7_RandomCard_AllieBeckman\obj\Debug\_8_7_RandomCard_AllieBeckman.Form1.resources
+c:\users\allie\documents\visual studio 2015\Projects\8-7_RandomCard_AllieBeckman\8-7_RandomCard_AllieBeckman\obj\Debug\_8_7_RandomCard_AllieBeckman.Properties.Resources.resources
+c:\users\allie\documents\visual studio 2015\Projects\8-7_RandomCard_AllieBeckman\8-7_RandomCard_AllieBeckman\obj\Debug\8-7_RandomCard_AllieBeckman.csproj.GenerateResource.Cache
+c:\users\allie\documents\visual studio 2015\Projects\8-7_RandomCard_AllieBeckman\8-7_RandomCard_AllieBeckman\obj\Debug\8-7_RandomCard_AllieBeckman.exe
+c:\users\allie\documents\visual studio 2015\Projects\8-7_RandomCard_AllieBeckman\8-7_RandomCard_AllieBeckman\obj\Debug\8-7_RandomCard_AllieBeckman.pdb
